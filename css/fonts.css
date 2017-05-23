@@ -1,0 +1,28 @@
+@font-face {
+	font-family: 'segoewplight';
+	src: url('../fonts/segoewplight/segoewplight.eot');
+	src: url('../fonts/segoewplight/segoewplight.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/segoewplight/segoewplight.woff') format('woff'),
+		 url('../fonts/segoewplight/segoewplight.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+/*@f+*/
+@font-face {
+	font-family: 'SegoeWPN';
+	src: url('../fonts/SegoeWPN/SegoeWPN.eot');
+	src: url('../fonts/SegoeWPN/SegoeWPN.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/SegoeWPN/SegoeWPN.woff') format('woff'),
+		 url('../fonts/SegoeWPN/SegoeWPN.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'SourceSansProRegular';
+	src: url('../fonts/SourceSansProRegular/SourceSansProRegular.eot');
+	src: url('../fonts/SourceSansProRegular/SourceSansProRegular.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/SourceSansProRegular/SourceSansProRegular.woff') format('woff'),
+		 url('../fonts/SourceSansProRegular/SourceSansProRegular.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
